@@ -5,7 +5,8 @@
 - 🦋 My favorite color is blue
 
    
-![Toads](https://github.com/user-attachments/assets/c4fc2124-bc50-422a-a139-2561f69d24fb)
+![Toad](https://github.com/user-attachments/assets/885f9da7-a9ca-4106-8156-53f1630e66a2)
+
 
 
 
