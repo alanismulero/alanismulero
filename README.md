@@ -4,11 +4,10 @@
 - 🐸 My current research project involves the Cane Toad and its skin and gland microbiome
 - 🦋 My favorite color is blue
   
-<div style="text-align: center;">
-  
+
 ![Toads](https://github.com/user-attachments/assets/c4fc2124-bc50-422a-a139-2561f69d24fb)
 
-</div>
+
 
 <!--
 **alanismulero/alanismulero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
