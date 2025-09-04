@@ -3,11 +3,11 @@
 - 🔬 I'm interested in pursuing a Medical Technologist Certificate and a PhD in Immunology
 - 🐸 My current research project involves the Cane Toad and its skin and gland microbiome
 - 🦋 My favorite color is blue
- <p align="center">
+
    
 ![Toads](https://github.com/user-attachments/assets/c4fc2124-bc50-422a-a139-2561f69d24fb)
 
-</p>
+
 
 
 <!--
